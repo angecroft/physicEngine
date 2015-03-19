@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/constan_force_2d.dir/src/constan_force_2d.cpp.o  -o constan_force_2d -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 
