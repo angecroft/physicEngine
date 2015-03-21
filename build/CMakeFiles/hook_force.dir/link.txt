@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/hook_force.dir/src/hook_force.cpp.o  -o hook_force -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 

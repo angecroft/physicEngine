@@ -3,8 +3,9 @@
 
 namespace PartyKel {
 
-ConstantForce2D::ConstantForce2D(glm::vec2 force) : m_Force(force) {
-
+ConstantForce2D::ConstantForce2D(glm::vec2 force) :
+    m_Force(force)
+{
 }
 
 void ConstantForce2D::apply(ParticleManager2D& pm) {

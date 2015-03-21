@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/brake_force.dir/src/brake_force.cpp.o  -o brake_force -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 

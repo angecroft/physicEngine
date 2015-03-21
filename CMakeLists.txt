@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 
 project(Imac3-MoteursPhysiques-PartyKel)
 
-add_definitions(-std=c++11)
+add_definitions(-std=c++11 -g)
 
 set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/CMake)
 

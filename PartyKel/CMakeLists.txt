@@ -1,3 +1,3 @@
 include_directories(include)
-file(GLOB_RECURSE SRC_FILES *.cpp *.hpp)
+file(GLOB_RECURSE SRC_FILES *.cpp *.h*)
 add_library(PartyKel ${SRC_FILES})

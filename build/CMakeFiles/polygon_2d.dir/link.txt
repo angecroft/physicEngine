@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/polygon_2d.dir/src/polygon_2d.cpp.o  -o polygon_2d -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 

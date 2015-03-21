@@ -14,7 +14,7 @@ class PolygonForce2D : public Force2D
 public:
     PolygonForce2D(const Polygon2D* polygon, float elasticity, const LeapfrogSolver2D* solver);
     void setDt(float dt);
-    virtual void apply(ParticleManager2D& pm);
+    virtual void apply(std::vector<ParticleManager2D> &managers);
 
 private:
     const Polygon2D* m_Polygon;         /** polygone repoussant les particules */

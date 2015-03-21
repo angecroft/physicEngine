@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/particle_manager_2d.dir/src/particle_manager_2d.cpp.o  -o particle_manager_2d -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 

@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/graph.dir/src/graph.cpp.o  -o graph -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 

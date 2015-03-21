@@ -7,7 +7,7 @@ namespace PartyKel {
 class Force2D {
 public:
     virtual ~Force2D() {}
-    virtual void apply(ParticleManager2D& pm) = 0;
+    virtual void apply(std::vector<ParticleManager2D> &managers) = 0;
 };
 
 }

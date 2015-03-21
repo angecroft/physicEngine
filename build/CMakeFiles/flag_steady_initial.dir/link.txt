@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/flag_steady_initial.dir/src/flag_steady_initial.cpp.o  -o flag_steady_initial -rdynamic PartyKel/libPartyKel.a third-party/AntTweakBar/libAntTweakBar.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 
